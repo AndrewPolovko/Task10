@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Task10</string>
+    <string name="times_contacted">Times contacted:</string>
 </resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="contacts_list_padding_end">16dp</dimen>
+    <dimen name="contacts_list_padding_start">16dp</dimen>
+    <dimen name="contacts_list_item_name_min_height">30dp</dimen>
+    <dimen name="contacts_list_item_times_contacted_min_height">25dp</dimen>
+</resources>
